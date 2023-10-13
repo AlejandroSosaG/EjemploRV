@@ -1,4 +1,4 @@
 package com.example.ejemplorv
 
-data class Contacto (val nombre : String, val tlfn : String){
+data class Contacto (val nombre : String, val tlfn : String, val genero : String){
 }
